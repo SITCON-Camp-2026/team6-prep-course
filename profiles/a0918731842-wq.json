@@ -1,0 +1,12 @@
+{
+  "$schema": "../schemas/profile.schema.json",
+  "github": "a0918731842-wq",
+  "displayName": "CC",
+  "tagline": "暑假活動一堆的高中生",
+  "interests": ["前端", "資安"],
+  "faction": {
+    "os": "macos",
+    "browser": "chrome",
+    "editor": "vscode"
+  }
+}
