@@ -1,12 +1,12 @@
 {
   "$schema": "../schemas/profile.schema.json",
   "github": "octoberlobster",
-  "displayName": "小火龍",
-  "tagline": "想把點子做成可以互動的網頁",
-  "interests": ["AI", "前端", "開放資料"],
+  "displayName": "XC",
+  "tagline": "不誤正業資工大四生",
+  "interests": ["網頁"],
   "faction": {
-    "os": "linux",
-    "browser": "firefox",
+    "os": "windows",
+    "browser": "chrome",
     "editor": "vscode"
   }
 }
