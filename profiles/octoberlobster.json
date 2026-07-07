@@ -3,7 +3,9 @@
   "github": "octoberlobster",
   "displayName": "XC",
   "tagline": "不誤正業資工大四生",
-  "interests": ["網頁"],
+  "interests": [
+    "網頁"
+  ],
   "faction": {
     "os": "windows",
     "browser": "chrome",
