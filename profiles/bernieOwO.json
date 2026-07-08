@@ -1,0 +1,12 @@
+{
+  "$schema": "../schemas/profile.schema.json",
+  "github": "bernieOwO",
+  "displayName": "Bernie Lixil",
+  "tagline": "火雞鄉高三學生awa",
+  "interests": ["軟體", "演算法", "UI/UX"],
+  "faction": {
+    "os": "windows",
+    "browser": "chrome",
+    "editor": "vscode"
+  }
+}
