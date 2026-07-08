@@ -1,0 +1,15 @@
+{
+  "$schema": "../schemas/profile.schema.json",
+  "github": "carol000000",
+  "displayName": "Gua",
+  "tagline": "廢物一枚 高二升高三",
+  "interests": [
+    "軟體",
+    "資安"
+  ],
+  "faction": {
+    "os": "windows",
+    "browser": "chrome",
+    "editor": "vscode"
+  }
+}
