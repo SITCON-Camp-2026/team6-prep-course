@@ -1,0 +1,14 @@
+{
+    "$schema": "../schemas/profile.schema.json",
+    "github": "9dm9kmf95w-hue",
+    "displayName": "YU",
+    "tagline": "喜歡和別人打遊戲",
+    "interests": [
+        "AI"
+    ],
+    "faction": {
+        "os": "macos",
+        "browser": "chrome",
+        "editor": "other"
+    }
+}
