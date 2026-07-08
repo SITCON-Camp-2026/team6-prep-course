@@ -1,0 +1,12 @@
+{
+  "$schema": "../schemas/profile.schema.json",
+  "github": "ruei-jen10827141",
+  "displayName": "RJ",
+  "tagline": "整天不是在睡就是在睡路上的人",
+  "interests": ["AI", "V/AR", "UI/UX"],
+  "faction": {
+    "os": "windows",
+    "browser": "chrome",
+    "editor": "vscode"
+  }
+}
