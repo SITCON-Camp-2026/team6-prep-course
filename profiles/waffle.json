@@ -1,0 +1,12 @@
+{
+  "$schema": "../schemas/profile.schema.json",
+  "github": "waffle",
+  "displayName": "waffle",
+  "tagline": "一個晚上比早上有精神的吸血鬼",
+  "interests": ["AI", "後端", "資安"],
+  "faction": {
+    "os": "windows",
+    "browser": "chrome",
+    "editor": "vscode"
+  }
+}
